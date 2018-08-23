@@ -10,7 +10,7 @@ cashmusic.js is distributed under a simplified BSD License, included here — so
 Build rad stuff. Give back where you can.
    
   
-# Dependencies  
+## Dependencies  
 There are no external dependencies other than SoundManager 2 for audio playback. We've taken lengths 
 to make sure we don't interfere with jQuery or similar libraries, so cashmusic.js should play well 
 with others. 
